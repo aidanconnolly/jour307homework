@@ -1,0 +1,52 @@
+program,message,count2
+Today,pro,3434
+Today,mixed,764
+Today,con,441
+Today,unknown,37
+CBS This Morning,pro,2065
+CBS This Morning,mixed,534
+CBS This Morning,con,259
+CBS This Morning,unknown,18
+KCCI 8 News This Morning,pro,399
+KCCI 8 News This Morning,mixed,91
+KCCI 8 News This Morning,unknown,2
+KCCI 8 News This Morning,con,44
+Jeopardy,pro,1265
+Jeopardy,mixed,327
+Jeopardy,con,207
+Jeopardy,unknown,25
+Channel 13 News at Noon,pro,292
+Channel 13 News at Noon,mixed,79
+Channel 13 News at Noon,con,38
+Channel 13 News at Noon,unknown,7
+Channel 13 News at Four,pro,276
+Channel 13 News at Four,mixed,67
+Channel 13 News at Four,con,37
+Channel 13 News at Four,unknown,3
+13 News at Nine on FOX 17,pro,247
+13 News at Nine on FOX 17,mixed,86
+13 News at Nine on FOX 17,con,39
+13 News at Nine on FOX 17,unknown,2
+KCCI 8 News at Ten,pro,239
+KCCI 8 News at Ten,mixed,75
+KCCI 8 News at Ten,con,37
+KCCI 8 News at Ten,unknown,6
+Channel 13 News at 6,pro,230
+Channel 13 News at 6,mixed,77
+Channel 13 News at 6,con,33
+Channel 13 News at 6,unknown,7
+Channel 13 Live at 5,pro,240
+Channel 13 Live at 5,mixed,59
+Channel 13 Live at 5,con,38
+Channel 13 Live at 5,unknown,4
+KCCI 8 News at Six,pro,223
+KCCI 8 News at Six,mixed,68
+KCCI 8 News at Six,con,38
+KCCI 8 News at Six,unknown,3
+The Big Bang Theory,pro,928
+The Big Bang Theory,mixed,201
+The Big Bang Theory,con,166
+Channel 13 News at 10,pro,193
+Channel 13 News at 10,mixed,71
+Channel 13 News at 10,con,38
+Channel 13 News at 10,unknown,4

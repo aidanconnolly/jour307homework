@@ -1,0 +1,9 @@
+program_type,message,count
+news,pro,43680
+news,mixed,12430
+news,con,7137
+news,unknown,743
+not news,pro,33214
+not news,mixed,6899
+not news,con,3957
+not news,unknown,364
