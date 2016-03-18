@@ -1,0 +1,1350 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Locations</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>50/50</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> 50/50<br>
+<b>Location:</b> 18th Ave and Q St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 124<br>
+<b>Approved or Proposed:</b> 124<br>
+<b>Bldg Permit:</b> 2013-01-01
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>0</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>9</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>3</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>112</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>475</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>124</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>124</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2013-01-01</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2013</value>
+				</Data>
+			</ExtendedData>
+			<address>18th Ave and Q St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>8N Lofts</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> 8N Lofts<br>
+<b>Location:</b> 8th Ave and N St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> -<br>
+<b>Approved or Proposed:</b> 172<br>
+<b>Bldg Permit:</b> 2015
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>624</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>-</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>172</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2015</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2015</value>
+				</Data>
+			</ExtendedData>
+			<address>8th Ave and N St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Aerie 147 Lofts</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Aerie 147 Lofts<br>
+<b>Location:</b> 12th Ave and Q St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 52<br>
+<b>Approved or Proposed:</b> 52<br>
+<b>Bldg Permit:</b> 2013 (renovation)
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>46</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>3</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>3</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>55</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>52</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>52</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2013 (renovation)</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2013</value>
+				</Data>
+			</ExtendedData>
+			<address>12th Ave and Q St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Arena Lofts</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Arena Lofts<br>
+<b>Location:</b> 8th Ave and Q St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 66<br>
+<b>Approved or Proposed:</b> 66<br>
+<b>Bldg Permit:</b> 2012
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>emailed</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>66</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>66</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2012</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2012</value>
+				</Data>
+			</ExtendedData>
+			<address>8th Ave and Q St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Aspen</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Aspen<br>
+<b>Location:</b> 18th Ave and P St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> -<br>
+<b>Approved or Proposed:</b> 182<br>
+<b>Bldg Permit:</b> 2015
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>632</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>-</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>182</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2015</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2015</value>
+				</Data>
+			</ExtendedData>
+			<address>18th Ave and P St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Cadillac Lofts</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Cadillac Lofts<br>
+<b>Location:</b> 12th Ave and P St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 21<br>
+<b>Approved or Proposed:</b> 21<br>
+<b>Bldg Permit:</b> 2011
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>emailed</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>21</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>21</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2011</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2011</value>
+				</Data>
+			</ExtendedData>
+			<address>12th Ave and P St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Canopy Lofts</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Canopy Lofts<br>
+<b>Location:</b> Canopy St and R St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 71<br>
+<b>Approved or Proposed:</b> 71<br>
+<b>Bldg Permit:</b> 2012
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>0</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>4</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>27</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>10</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>15</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>148</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>71</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>71</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2012</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2012</value>
+				</Data>
+			</ExtendedData>
+			<address>Canopy St and R St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Case, Case and Case</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Case, Case and Case<br>
+<b>Location:</b> 14th Ave and P St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 23<br>
+<b>Approved or Proposed:</b> 23<br>
+<b>Bldg Permit:</b> 2014 (renovation)
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>23</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>23</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>23</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>23</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2014 (renovation)</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2014</value>
+				</Data>
+			</ExtendedData>
+			<address>14th Ave and P St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Freadrich Building</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Freadrich Building<br>
+<b>Location:</b> 13th Ave and N St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 6<br>
+<b>Approved or Proposed:</b> 6<br>
+<b>Bldg Permit:</b> 2011
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value></value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>6</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>6</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2011</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2011</value>
+				</Data>
+			</ExtendedData>
+			<address>13th Ave and N St Lincoln Nebraska</address>
+		</Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-2-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Grand Manse</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Grand Manse<br>
+<b>Location:</b> 10th Ave and P St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 46<br>
+<b>Approved or Proposed:</b> 52<br>
+<b>Bldg Permit:</b> 2004
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>1</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>10</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>28</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>5</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>1</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>1</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>91</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>46</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>52</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2004</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2004</value>
+				</Data>
+			</ExtendedData>
+			<address>10th Ave and P St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Hobson Place (condos)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Hobson Place (condos)<br>
+<b>Location:</b> Canopy St and R St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 32<br>
+<b>Approved or Proposed:</b> 32<br>
+<b>Bldg Permit:</b> 2012
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>0</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>3</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>17</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>12</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>73</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>32</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>32</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2012</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2012</value>
+				</Data>
+			</ExtendedData>
+			<address>Canopy St and R St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Innovation Campus</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Innovation Campus<br>
+<b>Location:</b> Antelope Valley Parkway and Salt Creek Roadway Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> -<br>
+<b>Approved or Proposed:</b> 250<br>
+<b>Bldg Permit:</b> 
+</div>]]></description>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value></value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>-</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>250</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value></value>
+				</Data>
+				<Data name='Permit Year'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>Antelope Valley Parkway and Salt Creek Roadway Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Latitude</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Latitude<br>
+<b>Location:</b> 10th Ave and N St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 199<br>
+<b>Approved or Proposed:</b> 199<br>
+<b>Bldg Permit:</b> 2014 (renovation)
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>5</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>30</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>33</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>52</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>79</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>573</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>199</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>199</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2014 (renovation)</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2014</value>
+				</Data>
+			</ExtendedData>
+			<address>10th Ave and N St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>The Lincoln Building (condos)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> The Lincoln Building (condos)<br>
+<b>Location:</b> 10th Ave and O St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 50<br>
+<b>Approved or Proposed:</b> 50<br>
+<b>Bldg Permit:</b> 49 in 2002/6 in 2010
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value></value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>50</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>50</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>49 in 2002/6 in 2010</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2002</value>
+				</Data>
+			</ExtendedData>
+			<address>10th Ave and O St Lincoln Nebraska</address>
+		</Placemark>
+		<Style id='Style2-point-3'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-3-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Lincoln Flats</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Lincoln Flats<br>
+<b>Location:</b> 13th Ave and O St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 18<br>
+<b>Approved or Proposed:</b> 22<br>
+<b>Bldg Permit:</b> 2010-01-01
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>0</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>12</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>6</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>24</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>18</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>22</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2010-01-01</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2010</value>
+				</Data>
+			</ExtendedData>
+			<address>13th Ave and O St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Meadowgold</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Meadowgold<br>
+<b>Location:</b> 7th Ave and M St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> -<br>
+<b>Approved or Proposed:</b> 35<br>
+<b>Bldg Permit:</b> 
+</div>]]></description>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value></value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>-</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>35</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value></value>
+				</Data>
+				<Data name='Permit Year'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>7th Ave and M St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>The Option (condos)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> The Option (condos)<br>
+<b>Location:</b> 7th Ave and R St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 13<br>
+<b>Approved or Proposed:</b> 13<br>
+<b>Bldg Permit:</b> 5 in 2006/8 in 2008
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>0</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>9</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>4</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>17</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>13</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>13</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>5 in 2006/8 in 2008</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2006</value>
+				</Data>
+			</ExtendedData>
+			<address>7th Ave and R St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Parkhaus</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Parkhaus<br>
+<b>Location:</b> 13th Ave and P St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 52<br>
+<b>Approved or Proposed:</b> 52<br>
+<b>Bldg Permit:</b> 2011
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>0</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>8</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>44</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>192</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>52</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>52</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2011</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2011</value>
+				</Data>
+			</ExtendedData>
+			<address>13th Ave and P St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Prime Place</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Prime Place<br>
+<b>Location:</b> 10th Ave and Y St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 126<br>
+<b>Approved or Proposed:</b> 126<br>
+<b>Bldg Permit:</b> 2014
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>8</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>43</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>66</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>14</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>225</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>126</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>126</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2014</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2014</value>
+				</Data>
+			</ExtendedData>
+			<address>10th Ave and Y St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>Schwarz Paper</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> Schwarz Paper<br>
+<b>Location:</b> 8th Ave and O St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> <br>
+<b>Approved or Proposed:</b> <br>
+<b>Bldg Permit:</b> 
+</div>]]></description>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value></value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value></value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value></value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value></value>
+				</Data>
+				<Data name='Permit Year'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>8th Ave and O St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>W.C. Shinn Lofts</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> W.C. Shinn Lofts<br>
+<b>Location:</b> 16th Ave and P St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 15<br>
+<b>Approved or Proposed:</b> 15<br>
+<b>Bldg Permit:</b> 2009
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value>0</value>
+				</Data>
+				<Data name='1 bed'>
+					<value>8</value>
+				</Data>
+				<Data name='2 bed'>
+					<value>7</value>
+				</Data>
+				<Data name='3 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='4 bed'>
+					<value>0</value>
+				</Data>
+				<Data name='5+ bed'>
+					<value>0</value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>26</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>15</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>15</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>2009</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2009</value>
+				</Data>
+			</ExtendedData>
+			<address>16th Ave and P St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>UNL-The Courtyards</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> UNL-The Courtyards<br>
+<b>Location:</b> 17th Ave and Vine St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 132<br>
+<b>Approved or Proposed:</b> 132<br>
+<b>Bldg Permit:</b> opened 2004
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>478</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>132</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>132</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>opened 2004</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2004</value>
+				</Data>
+			</ExtendedData>
+			<address>17th Ave and Vine St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>UNL-The Village</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> UNL-The Village<br>
+<b>Location:</b> 16th Ave and Y St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 213<br>
+<b>Approved or Proposed:</b> 213<br>
+<b>Bldg Permit:</b> opened 2005
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>526</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>213</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>213</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>opened 2005</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2005</value>
+				</Data>
+			</ExtendedData>
+			<address>16th Ave and Y St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>UNL-Knoll Residential Center</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> UNL-Knoll Residential Center<br>
+<b>Location:</b> 17th Ave and R St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 143<br>
+<b>Approved or Proposed:</b> 143<br>
+<b>Bldg Permit:</b> opened 2009
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>565</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>143</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>143</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>opened 2009</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2009</value>
+				</Data>
+			</ExtendedData>
+			<address>17th Ave and R St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>UNL-University Suites</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> UNL-University Suites<br>
+<b>Location:</b> 18th Ave and R St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 136<br>
+<b>Approved or Proposed:</b> 136<br>
+<b>Bldg Permit:</b> opened 2012
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>513</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>136</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>136</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>opened 2012</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2012</value>
+				</Data>
+			</ExtendedData>
+			<address>18th Ave and R St Lincoln Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<name>UNL-Eastside</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Project Name:</b> UNL-Eastside<br>
+<b>Location:</b> 19th Ave and R St Lincoln Nebraska<br>
+<b>Dwelling Units Built:</b> 136<br>
+<b>Approved or Proposed:</b> 136<br>
+<b>Bldg Permit:</b> opened 2013
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Sudio/Effic.'>
+					<value></value>
+				</Data>
+				<Data name='1 bed'>
+					<value></value>
+				</Data>
+				<Data name='2 bed'>
+					<value></value>
+				</Data>
+				<Data name='3 bed'>
+					<value></value>
+				</Data>
+				<Data name='4 bed'>
+					<value></value>
+				</Data>
+				<Data name='5+ bed'>
+					<value></value>
+				</Data>
+				<Data name='Total Beds'>
+					<value>521</value>
+				</Data>
+				<Data name='Dwelling Units Built'>
+					<value>136</value>
+				</Data>
+				<Data name='Approved or Proposed'>
+					<value>136</value>
+				</Data>
+				<Data name='Bldg Permit'>
+					<value>opened 2013</value>
+				</Data>
+				<Data name='Permit Year'>
+					<value>2013</value>
+				</Data>
+			</ExtendedData>
+			<address>19th Ave and R St Lincoln Nebraska</address>
+		</Placemark>
+	</Document>
+</kml>
