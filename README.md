@@ -105,8 +105,6 @@ The assignment:
 The assignment:
 > During the semester, you will identify a database held by a government agency that you need for a story and go get it. You are negotiating for public data as a journalist, you may not promise to not use the records. Downloading data from the Internet does not fulfill the requirements of this exercise.
 
-[Final thoughts](DataRequest/finalthoughts.md)
-
 <a name="inspections"></a>
 ## [Health inspections investigation](HealthInspectionsArticle)
 
