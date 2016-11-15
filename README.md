@@ -1,22 +1,23 @@
 # JOUR 307 Homework
 *Spring 2016 — Matt Waite, instructor*
 
-This repository holds different assignments for JOUR 307 — Data Journalism. 
+This repository holds different assignments for JOUR 307: Data Journalism. 
 
 From the syllabus:
 > Every day, more of our lives is being stored in a database somewhere. With that explosion of data, journalists now more than ever need the skills to analyze and understand data to then produce the stories hidden in the information. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps and some basic stats. And we're going to do journalism. So buckle up and hold on.
 
 Below are some assignments including the instructions and my work.
 
-* [First chart](#firstchart)
+* [Percent change](#percentchange)
 * [Grouping data](#groupby)
+* [First chart](#firstchart)
 * [Data joining](#join)
 * [Data normalization](#normalization)
 * [Mapping assignment](#mapping)
 * [Second mapping assignment](#secondmapping)
 * [Data request](#datarequest)
-* [Downtown apartments investigation](#apartments)
 * [Health inspections investigation](#inspections)
+* [Downtown apartments investigation](#apartments)
 * [Data cleaning](#cleaning)
 
 <a name="percentchange"></a>
@@ -106,15 +107,17 @@ The assignment:
 
 [Final thoughts](DataRequest/finalthoughts.md)
 
-<a name="apartments"></a>
-## [Downtown apartments investigation](DowntownAptsArticle)
-
-[The final article](DowntownAptsArticle/FinalArticle.md)
-
 <a name="inspections"></a>
 ## [Health inspections investigation](HealthInspectionsArticle)
 
 [The final article](HealthInspectionsArticle/FinalArticle.md)
+
+<a name="apartments"></a>
+## [Downtown apartments investigation](DowntownAptsArticle)
+
+As the University of Nebraska-Lincoln continues efforts to grow enrollment to 30,000 students, private housing companies are preparing for the surge by developing housing complexes near campus.
+
+[The final article](http://www.dailynebraskan.com/news/off-campus-downtown-housing-becoming-more-viable-alternative-to-on/article_92239198-0051-11e6-a04c-17f7db0e7407.html)
 
 <a name="cleaning"></a>
 ## [Data cleaning](OpenDataUNL)
